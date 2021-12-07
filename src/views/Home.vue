@@ -12,7 +12,7 @@ This software is released under the MIT License, see LICENSE.
 
 <script lang="ts">
 // @ is an alias to /src
-import HelloWorld from "../components/HelloWorld.vue";
+import HelloWorld from "@c/HelloWorld.vue";
 
 export default {
   name: "Home",

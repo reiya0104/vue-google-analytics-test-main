@@ -5,8 +5,8 @@
 
 import { createRouter, createWebHistory } from 'vue-router'
 // HomeビューとAboutビューのインポート
-import Home from './views/Home.vue';
-import About from './views/About.vue';
+import Home from '@v/Home.vue';
+import About from '@v/About.vue';
 
 const routes = [
   {
