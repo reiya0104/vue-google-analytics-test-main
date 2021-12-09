@@ -6,7 +6,7 @@ import { resolve } from 'path'
 export default defineConfig({
   // 本番時はgithubリポジトリをルートパスにする
   base: (process.env.NODE_ENV === 'production')
-    ? '/vue-google-analytics-test/' : './',
+    ? '/vue-google-analytics-test-main/' : './',
   build: {
     outDir: 'docs'
   },

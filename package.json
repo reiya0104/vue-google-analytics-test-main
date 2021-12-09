@@ -1,5 +1,5 @@
 {
-  "name": "vue-google-analytics-test",
+  "name": "vue-google-analytics-test-main",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
